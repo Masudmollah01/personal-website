@@ -1,0 +1,151 @@
+body{
+	font-family: 'Roboto Slab', serif;
+	margin:0;
+	padding:0;
+}
+h1,h3,h5,h6,p{
+	margin:0;
+	padding:0;
+}
+.half-width{
+	width:40%;
+	float:left;
+	margin-left:5%;
+	padding-left:2%;
+}
+.header_area{
+	height:800px;
+	background-image:url(images/header-bg.png);
+	background-size:cover;
+	background-position:center center;
+}
+.header{
+	padding:100px 0;
+}
+.header_one{
+	margin-top:200px;
+	margin-left:35px;
+}
+.header_one h3{
+	font-size:30px;
+	padding-bottom:10px;
+}
+.header_one h1{
+	font-family: 'Roboto Slab', serif;
+	font-family: 'Squada One', cursive;
+	color:#EC4C7A;
+	font-size:50px;
+	letter-spacing:5px;
+}
+.header_one p{
+	line-height:25px;
+	padding:30px 0 40px 0;
+}
+.link_style{
+	text-decoration:none;
+	color:#FFFFFF;
+	background-color:#EC4C77;
+	padding:10px 25px;
+	border-radius:5px;
+}
+
+.header_two img{width:100%;}
+
+.biography_area{
+	height:900px;
+	background-image:url(images/biography-bg.png);
+	background-size:cover;
+	background-position:center center;}
+.biography{
+	padding:100px 0;
+}
+
+.biography_one img{width:100%;}
+.biography_two{
+	margin-top:150px;
+}
+.biography_two h1{}
+.biography_two p{
+	line-height:25px;
+	padding:30px 0 40px 0;
+}
+
+.work_area{
+	
+	padding:100px 100px 0px 100px;
+}
+.work h1{
+	text-align:center;
+	margin-bottom:50px;
+}
+.work{
+	
+	height:500px;
+	background-image:url(images/latest-work-bg.png);
+	background-size:cover;
+	background-position:right;
+	
+	
+}
+
+.work_image{
+	
+	margin-top:70px;
+}
+.one_third{
+	width:30%;
+	float:left;
+	padding-left:2%;
+}
+.one_third img{width:100%;}
+
+.client_area{
+	background-image:url(images/footer-bg.png);
+	background-size:cover;
+	background-position:right;
+}
+.client{
+	text-align:center;
+	padding-bottom:100px;
+	margin-top:50px;
+}
+.client h2{
+	font-size:30px;
+	padding-bottom:30px;
+}
+.client h5{
+	padding-bottom:5px;
+}
+.client h6{
+	color:#D6D6D6;
+}
+.client p{
+	padding:40px 0;
+	line-height:25px;
+}
+.color_style{
+	width:600px;
+	background-color:#EC4F8E;
+	padding:30px 0 0 0 ;
+	margin-left:400px;
+	border-radius:10px;
+}
+.color_style h6{
+	color:#FFFFFF;
+}
+.color_style p{
+	color:#FFFFFF;
+	margin-top:-20px;
+	
+}
+.footer_area{
+	padding:80px 0 30px 0;
+}
+.footer p{ text-align:center;}
+
+
+
+
+
+
+
